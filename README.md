@@ -9,6 +9,6 @@ index.html: code for the site's home page
 
 style.css: CSS code for the site's home page
 
-Date: Folder for additional data and assignments
+Data: Folder for additional data and assignments
 
 OMV.docs: Explorations of the One More Voice Project and its sources for data collection
