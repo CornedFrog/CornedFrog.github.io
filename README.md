@@ -3,7 +3,7 @@
 
 This is the main respository for the in-progress website that will host my final project for ENGL 877 with Dr. Wisnicki at UNL
 
-#### Folder and File Types
+### Folder and File Types
 
 index.html: code for the site's home page
 
