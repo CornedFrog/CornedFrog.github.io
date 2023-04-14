@@ -1,21 +1,13 @@
 body {
-	background-color:yellow;
+	background-color:paleturquoise;
 }
 h1 {
-	color:blue;
+	color:black;
 	font-family:helvetica;
-	background-color:pink;
-	border: 5px solid red;
 	padding: 50px;
 }
-h1 {
-	color: black;
-	font-family: "Gill Sans";
-	text-transform: uppercase;
-}
 p {
-	color:pink;
-	background-color: red;
+	color:black;
 	border: 2px dotted green;
 }
 #highlight {
