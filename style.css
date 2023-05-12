@@ -1,5 +1,6 @@
 body {
 	background-color:paleturquoise;
+	padding: 2rem;
 }
 h1 {
 	color:black;
@@ -8,7 +9,7 @@ h1 {
 }
 p {
 	color:black;
-	border: 2px dotted green;
+	;
 }
 #highlight {
 	color:orange;
@@ -29,4 +30,55 @@ img {
 	width: 25%;
 	height: 25%;
 	margin-left: 100px;
+}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: 2px solid black;
+  outline: 8px solid black;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
 }
